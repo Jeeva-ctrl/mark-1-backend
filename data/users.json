@@ -1,0 +1,10 @@
+[
+    {
+        "first_name": "test",
+        "last_name": "test",
+        "email": "horo",
+        "password": "$2a$10$8ufdUDcTPBaXeY4tkMNYoOXmyRFISCGgefsLE1/gjllcxnrC/1dgO",
+        "id": 1,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ikhvcm8iLCJpYXQiOjE2NDY0NzEwNDksImV4cCI6MTY0NjQ3ODI0OX0.eKOkf-OeiCIx2bRS4z4YIEfmpS1Hozp1swwlR9k6owY"
+    }
+]
